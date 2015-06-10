@@ -20440,9 +20440,7 @@ muni:History_heritage rdf:type owl:Class ;
                       rdfs:subClassOf muni:Leisure_and_culture ;
                       
                       iron:altLabel "World Heritage Sites (built)" ;
-                      
-                      iron:description "Heritage refers to something which is inherited from one's ancestors" ;
-                      
+                                           
                       iron:prefLabel "History and heritage" ;
                       
                       iron:altLabel "Conservation (heritage)" ;
